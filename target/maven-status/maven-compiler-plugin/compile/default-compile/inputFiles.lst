@@ -1,0 +1,7 @@
+/Users/pstha/code/adexltd/java-sample-application/inventory-service/src/main/java/com/programmingtechie/inventoryservice/model/Inventory.java
+/Users/pstha/code/adexltd/java-sample-application/inventory-service/src/main/java/com/programmingtechie/inventoryservice/service/InventoryService.java
+/Users/pstha/code/adexltd/java-sample-application/inventory-service/src/main/java/com/programmingtechie/inventoryservice/controller/InventoryController.java
+/Users/pstha/code/adexltd/java-sample-application/inventory-service/src/main/java/com/programmingtechie/inventoryservice/util/DataLoader.java
+/Users/pstha/code/adexltd/java-sample-application/inventory-service/src/main/java/com/programmingtechie/inventoryservice/dto/InventoryResponse.java
+/Users/pstha/code/adexltd/java-sample-application/inventory-service/src/main/java/com/programmingtechie/inventoryservice/repository/InventoryRepository.java
+/Users/pstha/code/adexltd/java-sample-application/inventory-service/src/main/java/com/programmingtechie/inventoryservice/InventoryServiceApplication.java
